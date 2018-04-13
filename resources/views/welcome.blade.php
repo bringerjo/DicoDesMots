@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Tartonpion</title>
+        <title>Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -39,8 +39,7 @@
                 position: absolute;
                 right: 10px;
                 top: 18px;
-  
-DB_DATABASE=jourc          }
+            }
 
             .content {
                 text-align: center;
@@ -80,7 +79,7 @@ DB_DATABASE=jourc          }
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tartonpion mexicain
+                    Laravel
                 </div>
 
                 <div class="links">
