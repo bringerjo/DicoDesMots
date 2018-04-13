@@ -24,3 +24,4 @@ class Contact extends Controller
 		return redirect()->route('contact.create'); 
 	}
 }
+
